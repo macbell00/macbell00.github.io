@@ -1,0 +1,132 @@
+body {
+	margin: 0px;
+	padding-top: 10px;
+	padding-left: 0px;
+	padding-right: 0px;
+	/*background: url('architecture-house-window-roof-building-home-1179393-pxhere.com.jpg');*/
+	height: 100%;
+	font: 13px/18px "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+body#home {
+	background: url('architecture-house-window-roof-building-home-1179393-pxhere.com.jpg');
+	background-size: 2160px 1080px;
+	background-repeat:no-repeat;
+
+}
+
+.col-xl-8 img{
+    float: left;
+    padding-right: 100px;
+    position: relative;
+
+}
+
+body#about {
+	background: url('black-house.jpg');
+	background-size: 2160px 1200px;
+	background-repeat:no-repeat;
+    padding: 200%;
+
+    }
+
+.jumbotron{
+ background-image: url('jesse-roberts-146556-unsplash.jpg');
+ background-size: 2160px 1200px;
+ background-repeat: no-repeat;
+background-position: 50% 30%;
+}
+
+.jumbotron2{
+    background-image: url(alexander-andrews-457319-unsplash.jpg);
+	background-size: 2160px 1200px;
+	background-repeat:no-repeat;
+    background-position: 40% 65%;
+    padding: 25px;
+    max-width: 1920px;
+}
+
+.container {
+    max-width: 1920px;
+    margin: 0px;
+    padding: 0px;
+
+    }
+
+.container-fluid {
+    width: 100%;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+.bridge-the-gap {
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	padding-bottom: 2rem;
+	color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.who-we-are {
+	text-transform: uppercase;
+    height: 150px;
+}
+
+.who-we-are2 {
+	font-family: Arial Black, Regular;
+    font-size: 100px;
+    color: #707070;
+}
+
+.we-are{
+	font-family: Arial, Regular;
+    color: #707070;
+    line-height: 40px;
+}
+
+.contactus{
+    font-family: Arial Black, Regular;
+    font-size: 100px;
+    color: #707070;
+    line-height: 40px;
+    height: 150px;
+}
+
+.navi-bar {
+	border-color: #000000;
+	border-style: solid;
+	border-width: 2px;
+	width: 100%;
+	background-color: #a6a6a6;
+    margin-bottom: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+}
+
+.mission-statement{
+    font-size: 40px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.nav-item {
+	padding-top: 20px;
+	padding-bottom: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    font: bold;
+
+
+}
+
+a.navaho:link {color: #000000;}
+a.navaho:visited {color:#000000;}
+a.navaho:hover {color:#336699;}
+
+#navbar-fade {
+    background-color:rgba(192,192,192,0.3);
+}
